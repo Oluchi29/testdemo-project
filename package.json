@@ -1,0 +1,15 @@
+{
+  "name": "testdemo-project",
+  "version": "1.0.0",
+  "description": "a demo project using terraform to create the master and controller for the ansible p;aybook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

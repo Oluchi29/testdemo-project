@@ -1,0 +1,28 @@
+.terraform/*
+
+.terraform.lock.hcl
+
+# Local .terraform directories
+
+**/.terraform/*
+
+
+
+# .tfstate files
+
+
+*.tfstate
+
+*.tfstate.*
+
+# Ignore CLI configuration files
+
+.terraformrc
+
+terraform.rc
+
+node_modules
+
+package-lock.json
+
+package.json
